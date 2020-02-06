@@ -1,0 +1,2 @@
+input_transation = [0.1ns,0.2ns,0.3ns,0.4ns,0.5ns]
+output_capacitance = [0.1pf,0.2pf,0.3pf,0.4pf,0.5pf]
